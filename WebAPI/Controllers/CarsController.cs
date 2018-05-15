@@ -15,9 +15,6 @@ namespace WebAPI.Controllers
         {
             try
             {
-                string fuid;
-                Parking.Core.Parking.Instanse.AddCar(Parking.Core.CarType.Bus, 100, out fuid);
-                Parking.Core.Parking.Instanse.AddCar(Parking.Core.CarType.Truck, 100, out fuid);
                 return Json(Parking.Core.Parking.Instanse.Cars.Select(x => new { x.ID, type = x.Type.ToString() }));
             }
             catch(Exception)
@@ -41,7 +38,7 @@ namespace WebAPI.Controllers
         }
 
         // POST api/values
-        [HttpPost]
+        [HttpPost("[action]")]
         public JsonResult AddCar([FromBody]Model.CarModel value)
         {
             try
