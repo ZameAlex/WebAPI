@@ -1,0 +1,9 @@
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\Parking\bin\Debug\netcoreapp2.0\Parking.deps.json
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\Parking\bin\Debug\netcoreapp2.0\Parking.dll
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\Parking\bin\Debug\netcoreapp2.0\Parking.pdb
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\Parking\obj\Debug\netcoreapp2.0\Parking.csprojAssemblyReference.cache
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\Parking\obj\Debug\netcoreapp2.0\Parking.csproj.CoreCompileInputs.cache
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\Parking\obj\Debug\netcoreapp2.0\Parking.AssemblyInfoInputs.cache
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\Parking\obj\Debug\netcoreapp2.0\Parking.AssemblyInfo.cs
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\Parking\obj\Debug\netcoreapp2.0\Parking.dll
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\Parking\obj\Debug\netcoreapp2.0\Parking.pdb

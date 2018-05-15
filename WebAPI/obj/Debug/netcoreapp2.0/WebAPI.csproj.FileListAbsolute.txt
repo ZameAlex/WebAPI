@@ -1,0 +1,14 @@
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.deps.json
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.runtimeconfig.json
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.runtimeconfig.dev.json
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.dll
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\WebAPI\bin\Debug\netcoreapp2.0\WebAPI.pdb
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\WebAPI\bin\Debug\netcoreapp2.0\Parking.dll
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\WebAPI\bin\Debug\netcoreapp2.0\Parking.pdb
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.csprojAssemblyReference.cache
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.AssemblyInfo.cs
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.csproj.CopyComplete
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.dll
+C:\Users\Oleksii.Zamekula\Downloads\Binary academy\WebAPI\WebAPI\obj\Debug\netcoreapp2.0\WebAPI.pdb
