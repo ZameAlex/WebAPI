@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Oleksii.Zamekula\\Downloads\\Binary academy\\WebAPI\\Parking\\Parking.csproj",
+      "projectUniqueName": "C:\\Users\\Oleksii.Zamekula\\Downloads\\Binary academy\\New folder\\WebAPI\\Parking\\Parking.csproj",
       "projectName": "Parking",
-      "projectPath": "C:\\Users\\Oleksii.Zamekula\\Downloads\\Binary academy\\WebAPI\\Parking\\Parking.csproj",
+      "projectPath": "C:\\Users\\Oleksii.Zamekula\\Downloads\\Binary academy\\New folder\\WebAPI\\Parking\\Parking.csproj",
       "packagesPath": "C:\\Users\\Oleksii.Zamekula\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Oleksii.Zamekula\\Downloads\\Binary academy\\WebAPI\\Parking\\obj\\",
+      "outputPath": "C:\\Users\\Oleksii.Zamekula\\Downloads\\Binary academy\\New folder\\WebAPI\\Parking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

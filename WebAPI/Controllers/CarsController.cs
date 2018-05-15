@@ -10,18 +10,22 @@ namespace WebAPI.Controllers
     public class CarsController : Controller
     {
         // GET api/values
-        [HttpGet]
-        public JsonResult Get()
+        [HttpGet("[action]")]
+        public JsonResult Cars()
         {
-            string id;
-            Parking.Core.Parking.Instanse.AddCar(Parking.Core.CarType.Bus, 100, out id);
-            Parking.Core.Parking.Instanse.AddCar(Parking.Core.CarType.Truck, 100, out id);
-            return Json(Parking.Core.Parking.Instanse.Cars.Select(x => new { x.ID, type = x.Type.ToString() }));                ;
+            try
+            {
+                return Json(Parking.Core.Parking.Instanse.Cars.Select(x => new { x.ID, type = x.Type.ToString() }));
+            }
+            catch(Exception)
+            {
+                return Json(NoContent());
+            }
         }
 
         // GET api/values/5
-        [HttpGet("{id}")]
-        public JsonResult Get(string id)
+        [HttpGet("[action]/{id}")]
+        public JsonResult Car(string id)
         {
             try
             {
@@ -34,8 +38,8 @@ namespace WebAPI.Controllers
         }
 
         // POST api/values
-        [HttpPost]
-        public JsonResult Post([FromBody]Model.CarModel value)
+        [HttpPost("[action]")]
+        public JsonResult AddCar([FromBody]Model.CarModel value)
         {
             try
             {
@@ -54,7 +58,7 @@ namespace WebAPI.Controllers
 
 
         // DELETE api/values/5
-        [HttpDelete("{id}")]
+        [HttpDelete("[action]/{id}")]
         public JsonResult Delete(string id)
         {
             try
