@@ -22,7 +22,7 @@ namespace WebAPI.Controllers
         [HttpGet("[action]")]
         public JsonResult OccupiedPlaces()
         {
-            return Json(Parking.Core.Parking.Instanse.FreePlaces());
+            return Json(Parking.Core.Parking.Instanse.OccupiedPlaces());
         }
 
         [HttpGet("[action]")]

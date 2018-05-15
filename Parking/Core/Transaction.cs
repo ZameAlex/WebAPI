@@ -12,6 +12,7 @@ namespace Parking.Core
         public DateTime TransactionTime { get { return transacionTime; } }
         public string CarID { get; protected set; }
         public double Tax { get; protected set; }
+
         public Transaction(string id, double tax)
         {
             CarID = id;
